@@ -16,7 +16,7 @@ Disini Anda dapat menebak lagu siapakah yang ada pada kuis tersebut. <br>
 Tampilan jawaban yang benar pada kuis. Yang berwarna hijau adalah jawaban yang benar dan warna putih jawaban yang Anda pilih. <br>
 ![4](https://github.com/sitiafiyah/MediaPlayback/blob/master/4.PNG)
 
-**Screenshoot 4 : ** <br>
+**Screenshoot 4 :** <br>
 Notifikasi kuis. <br>
 ![2](https://github.com/sitiafiyah/MediaPlayback/blob/master/2.PNG)
 
